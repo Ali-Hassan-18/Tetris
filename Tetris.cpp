@@ -3,6 +3,8 @@
 #include <SFML/Audio.hpp>
 #include <memory>
 #include <iostream>
+#include <vector>
+#include <cstdint>
 
 class Tetris {
     static const std::uint32_t lines{ 20 };
